@@ -1,9 +1,8 @@
 # Aula sobre Comandos de Terminais
 
 - O que são os terminais de comando ?
+  - Interfaces de texto que permitem com que o usuário interaja diretamente com a máquina (unix, windows)
 - diretorio de trabalho atual ~ onde  você esta! 
-
-
 
 
 ## CD - change directory
@@ -56,7 +55,14 @@ echo "OK" > dev1
 touch > dev 2
 
 del dev
-
+rm dev
 
 ```
+
+## PING 
+
+```shell
+ping codecrush.com.br
+```
+
 
