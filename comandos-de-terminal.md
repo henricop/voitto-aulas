@@ -1,9 +1,10 @@
-# Aula sobre Comandos de Terminais
+## Open and Exit
 
-- O que são os terminais de comando ?
-  - Interfaces de texto que permitem com que o usuário interaja diretamente com a máquina (unix, windows)
-- diretorio de trabalho atual ~ onde  você esta! 
-
+```shell
+  open #unix
+  start #windows
+  exit
+```
 
 ## CD - change directory
 
@@ -11,7 +12,6 @@
 cd Desktop # altera de um diretório para o outro
 cd ..
 
-pwd # exibe o path completo
 whoami # dita o nome do usuário
 
 ```
@@ -39,7 +39,7 @@ ipconfig /?
 man ipconfig
 ```
 
-## MKDIR - Make Directory
+## MKDIR - Make Directory e RMDIR - Remove Directory
 
 ```shell
 mkdir "Meus Projetos"
