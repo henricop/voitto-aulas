@@ -5,13 +5,13 @@
 
 - possuem um fluxo de trabalho a ser seguido
 
-Exemplos: Angular, Vue, Ionic, Express
+Exemplos: Next, Angular, Vue, Ionic, Django, CherryPy
 
 ## O que é uma biblioteca ?
 
 Também é um conjunto base de código que tende a fornecer funcionalidade prática para resolver alguns problemas. É muito menos amplo que o Framework e bem mais específica.
 
-exemplos: Moment (lib de datas) | React (lib de interfaces) | Chart (biblioteca de graficos)
+exemplos: Moment (lib de datas) | React (lib de interfaces) | Pandas | Numpy | Matplotlib
 
 ## Qual a diferença entre Framework e Biblioteca ?
 
@@ -29,6 +29,28 @@ Porém é facil cair em erros, por exemplo: O Angular muitas vezes é chamado de
 O mesmo acontece com React (que é até polêmico), ele se denomina uma biblioteca, mas devido o ecossistema ter crescido TANTO, muita gente o considera um framework
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Exemplo prático com Python
 
