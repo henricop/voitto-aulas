@@ -7,6 +7,7 @@
 Guia passo a passo para instalar o VSCode.
 Demonstração de como personalizar as configurações.
 
+
 ## VSCODE
 - THEME
 - EXTENSION

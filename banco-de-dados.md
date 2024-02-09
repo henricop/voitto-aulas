@@ -147,3 +147,8 @@ As principais plataformas de nuvem, como AWS, Azure e GCP, oferecem uma variedad
 - Criptografia
 - Backup e Recuperação de Dados
 - Estratégias Recomendadas
+
+
+
+
+
